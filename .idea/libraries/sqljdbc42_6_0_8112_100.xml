@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqljdbc42-6.0.8112.100">
+    <CLASSES>
+      <root url="jar://$APPLICATION_CONFIG_DIR$/jdbc-drivers/SQL Server/6.0.8112.100/sqljdbc42-6.0.8112.100.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
